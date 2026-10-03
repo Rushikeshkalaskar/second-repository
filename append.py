@@ -1,0 +1,9 @@
+list=[]
+print(list)
+list.append(10);
+list.append(20)
+list.append(30);
+list.append("good")
+list.append(5.6)
+list.append(False)
+print(list)
